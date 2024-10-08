@@ -27,7 +27,7 @@
   },
   "nickNameBot": "Astral AI",
   "ownerlink": "https://www.facebook.com/100043265301021",
-  "prefix": "-",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
